@@ -1,0 +1,6 @@
+{
+  "features": {
+    "enable_beta_dashboard": true,
+    "enable_new_checkout_flow": false
+  }
+}
