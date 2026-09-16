@@ -1,5 +1,6 @@
-## Features
-- Initial user onboarding flow.
+## Release Notes - v1.0
+- Version 1.0 release candidate ready for staging deployment.
+
 
 
 # Spring Boot, Spring Security, PostgreSQL: JWT Authentication & Authorization example
