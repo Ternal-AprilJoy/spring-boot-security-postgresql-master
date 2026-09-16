@@ -1,3 +1,7 @@
+## Features
+- Initial user onboarding flow.
+
+
 # Spring Boot, Spring Security, PostgreSQL: JWT Authentication & Authorization example
 
 ## User Registration, User Login and Authorization process.
